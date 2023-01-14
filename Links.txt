@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>First Page</title>
+    </head>
+    <body>
+        <h1 id="p1"></h1>Paragraph 1 </h1>
+
+       <p>Hello this is my first page</p>
+       <p>This is a <a href="http://www.wikipedia.org">link</a> to Wikipedia</p>
+       <p>This is a <a href="paragraph.html">link</a> to Paragraph file </p>
+       <h1>Paragraph 2</h1>
+
+       <p>Hello this is my first page</p>
+       <h1>Paragraph 3</h1>
+
+       <p>Hello this is my first page</p>
+       <h1>Paragraph 4</h1>
+
+       <p>Hello this is my first page</p>
+       <h1>Paragraph 5</h1>
+
+       <p>Hello this is my first page</p>
+       <h1>Paragraph 6</h1>
+
+       <p>Hello this is my first page</p>
+       <p> <a href="#p1">link</a> This is a link to Paragraph 1 </p>
+    </body>
+</html>
