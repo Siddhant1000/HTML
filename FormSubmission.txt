@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Forms in HTML</title>
+    </head>
+    <body>
+       <form>
+        <label>Name:</label>
+        <input type="text" name="name" placeholder="Your name"><br><br>
+        <label>Address:</label><br>
+        <textarea col="20" rows="4" placeholder="Your address"></textarea><br><br>
+        <label>Gender:</label><br>
+        <input type="Radio" name="gender"><label>Male</label>
+        <input type="Radio" name="gender"><label>Female</label><br><br>
+        <label>Qualification:</label><br><br> 
+        <input type="Checkbox" name="Qualificaton"><label>Graduate</label><br>
+        <input type="Checkbox" name="Qualificaton"><label>Post Graduate</label><br>
+        <input type="Checkbox" name="Qualificaton"><label>Masters</label><br><br>
+        <label>Category</label><BR>
+        <select>
+            <option>General</option>
+            <option>OBC</option>
+            <option>SC</option>
+            <option>ST</option>
+        </select><br><br>
+        <input type="submit" value="Submit Data">
+
+       </form>
+
+    </body>
+</html>
