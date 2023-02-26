@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Text Decoration</title>
+    </head>
+    <body>
+       <p>Hello this is my<b> first page</b></p>
+       <p>This text is <strong>Strong</strong></p>
+       <p>This text is <strong>Emphasizes</strong></p>
+       <p>This text is <i>Italics</i></p>
+       <p>This text is <strike>Strike</strike></p>
+       <p>Co<sub>2</sub></p>
+       <p>x<sup>2</sup></p>
+
+
+
+
+
+
+    </body>
+</html>
