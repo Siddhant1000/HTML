@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Forms in HTML</title>
+    </head>
+    <body>
+       <form>
+        <label for="email">Email:</label>
+        <input id="email" type="text" name="email" placeholder="Email Address" size="40px"><br><br>
+        <label for="pasword">Password:</label>
+        <input type="password" name="password" placeholder="Password" size="40px" id="password"><br><br>
+        <input type="submit" value="Login">
+
+       </form>
+
+    </body>
+</html>
