@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Entities in HTML</title>
+    </head>
+    <body>
+       <p>Some           &nbsp; &nbsp;texts</p>
+       <p>Facebook &copy; &nbsp is a global tech company &nbsp; </p>           
+
+    </body>
+</html>
